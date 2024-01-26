@@ -213,6 +213,7 @@ body {
  * YAGS link
  **/
 a#yags-link {
+  display: none;
   color: var(--color-primary-fg);
   position: fixed;
   bottom: var(--space-small);
